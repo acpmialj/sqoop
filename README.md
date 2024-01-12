@@ -29,3 +29,5 @@ Además, estaremos en un shell del contenedor.
 Ejecutamos Jupyter Lab desde dentro del contenedor (jupyter-lab). Nos dará unos enlaces para lanzar el navegador web, usamos el último (http://127.0.0.1:8888...). 
 
 Ya en la interfaz web de jupyter-lab, podemos crear un notebook Python nuevo y replicar los pasos indicados en "sqoop.ipynb", para probar el movimiento de datos MariaDB <-> HDFS. También podemos descargar desde este repositorio Github el cuaderno indicado, y subirlo a jupyter para su ejecución.
+
+Nótese que el cuaderno queda en el servidor remoto. Si queremos una copia, tendremos que descargarla desde el navegador. 
