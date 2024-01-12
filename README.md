@@ -27,5 +27,4 @@ Yarn ResourceManager at:      http://127.0.0.1:8088/
 Además, estaremos en un shell del contenedor. 
 
 Ejecutamos Jupyter Notebook desde dentro del contenedor con "jupyter notebook". Nos dará un enlace
-de conexión Jupyter. Creamos un Notebook Python nuevo. Y listo para probar el movimiento de datos
-MariaDB <-> HDFS
+de conexión Jupyter. Creamos un Notebook Python nuevo y replicamos los pasos indicados en "sqoop.ipynb", para probar el movimiento de datos MariaDB <-> HDFS.
